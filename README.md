@@ -5,12 +5,12 @@
 ---
 
 🌟 About Me:
-- 🔭 I’m currently building impactful backend and full-stack projects.
-- 🌱 I’m mastering FastAPI, Django, PostgreSQL, and sharpening my DSA daily.
+- 🔭 I’m currently in my 4th semester, building impactful backend and full-stack projects.
+- 🌱 I’m mastering Django, PostgreSQL, and sharpening my DSA daily.
 - 🎤 I love public speaking and presenting ideas clearly — my superpower!
 - 👯 I’m open to collaborating on tech products and open-source projects.
 - 🏆 Seeking exciting internship opportunities by 5th semester.
-- 📫 Connect with me on [LinkedIn](https://linkedin.com/in/omkarsureshs)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/omkar-s-s-b85655295/)
 
 ---
 
@@ -18,20 +18,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-📚 My Top Projects:
-- [✅ To-Do List API with FastAPI + SQLite](https://github.com/omkarsureshs/your-repo-link)  
-- [🛒 E-commerce Website Backend (Django)](https://github.com/omkarsureshs/your-repo-link)  
-- [💬 Real-Time Chat App (Socket.IO)](https://github.com/omkarsureshs/your-repo-link)
-
-*(More projects coming soon!)*
 
 ---
 
