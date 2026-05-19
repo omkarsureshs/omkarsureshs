@@ -1,38 +1,149 @@
-# Hi there, I'm Omkar 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> Hey, I'm Omkar S S
 
-🚀 Tech Enthusiast | Backend Developer in Progress | Powerful Presenter
+<h3 align="center">
+Backend Engineer in Progress • Full Stack Developer • Problem Solver
+</h3>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/omkar-s-s-b85655295/">
+    <img src="https://img.shields.io/badge/LinkedIn-Omkar%20S%20S-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 
-🌟 About Me:
-- 🔭 I’m currently in my 4th semester, building impactful backend and full-stack projects.
-- 🌱 I’m mastering Django, PostgreSQL, and sharpening my DSA daily.
-- 🎤 I love public speaking and presenting ideas clearly — my superpower!
-- 👯 I’m open to collaborating on tech products and open-source projects.
-- 🏆 Seeking exciting internship opportunities by 5th semester.
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/omkar-s-s-b85655295/)
-
----
-
-🛠️ Tech Stack:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  <img src="https://komarev.com/ghpvc/?username=omkarsureshs&style=for-the-badge&color=blue" />
+</p>
 
 ---
 
-🏆 GitHub Stats:
+# 🚀 About Me
 
-![](https://github-readme-stats.vercel.app/api?username=omkarsureshs&show_icons=true&theme=radical&hide_border=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=omkarsureshs&theme=radical&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=omkarsureshs&layout=compact&theme=radical&hide_border=true)
+🎓 6th Semester Computer Science Student
+💻 Building scalable backend & full-stack applications
+🧠 Consistently sharpening DSA, backend engineering & system design
+🌐 Exploring production-grade development and deployment workflows
+⚡ Passionate about creating clean architectures and real-world systems
+🎤 Strong presenter who loves simplifying complex technical concepts
+
+---
+
+# 🧩 What I'm Currently Learning
+
+* ⚙️ Backend Architecture & API Design
+* 🐘 PostgreSQL & Database Optimization
+* ⚛️ React Ecosystem & Frontend Structuring
+* 🔐 Authentication & Authorization Systems
+* ☁️ Deployment, VPS & Production Concepts
+* 🧠 Data Structures & Algorithms
+* 🐳 Docker & DevOps Fundamentals
+* 🏗️ Scalable Project Structure & System Design
 
 ---
 
-🧠 Quote I Live By:
-> "Your attitude determines your altitude."
+# 🛠️ Tech Stack
+
+## Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,sql" />
+</p>
+
+## Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+</p>
+
+## Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
+</p>
+
+## Database & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,git,github,vscode,docker" />
+</p>
 
 ---
+
+# 🏗️ Current Focus
+
+Currently building real-world full-stack applications with:
+
+```bash
+React + Express + PostgreSQL
+```
+
+Learning how production systems actually work:
+
+* API architecture
+* Authentication flows
+* Middleware systems
+* Database management
+* Deployment pipelines
+* Server debugging
+* Scalability concepts
+
+---
+
+# 📌 Featured Interests
+
+* Backend Development
+* Full Stack Engineering
+* System Design
+* Scalable Architecture
+* DevOps & Deployment
+* Open Source Collaboration
+* Technical Presentations
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omkarsureshs&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarsureshs&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarsureshs&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+* 🚀 Land a strong software engineering internship
+* 🏗️ Build production-ready projects
+* ☁️ Learn cloud & deployment deeply
+* 📚 Master DSA for interviews
+* 🔥 Contribute to open-source projects
+* 🧠 Become highly proficient in backend engineering
+
+---
+
+# 💡 Philosophy
+
+> “Good software is not just code that works.
+> It’s code that scales, survives, and stays maintainable.”
+
+---
+
+# 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/omkar-s-s-b85655295/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="mailto:yourmail@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ Always learning. Always building. Always improving.
+</p>
