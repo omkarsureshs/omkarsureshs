@@ -115,14 +115,16 @@ Building scalable full-stack applications using:
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=omkarsureshs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=omkarsureshs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170em" src="https://streak-stats.demolab.com?user=omkarsureshs&theme=tokyonight&hide_border=true" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarsureshs&layout=compact&theme=tokyonight&hide_border=true" />
-
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarsureshs&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
